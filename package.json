@@ -1,0 +1,13 @@
+{
+  "name": "comment-system",
+  "version": "1.0.0",
+  "description": "A simple comment system using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.1"
+  }
+}
